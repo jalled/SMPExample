@@ -6,6 +6,6 @@ final class SMPExampleTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(SMPExample().text, "Hello, World!")
+        XCTAssertEqual(SMPExample.text, "Hello, World!")
     }
 }

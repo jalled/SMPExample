@@ -1,6 +1,15 @@
-public struct SMPExample {
-    public private(set) var text = "Hello, World!"
+import SwiftUI
 
-    public init() {
+
+@available(macOS 10.15, *)
+extension View {
+    
+   public func centerHorizontally() -> some View {
+        HStack {
+            Spacer()
+            self
+            Spacer()
+        }
     }
+
 }
