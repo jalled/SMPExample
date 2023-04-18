@@ -2,7 +2,7 @@
 
 ## Installation
 
-To install this package, import 'url here' is SPM.
+To install this package, import 'https://github.com/jalled/SMPExample' is SPM.
 
 ## Usage example
 

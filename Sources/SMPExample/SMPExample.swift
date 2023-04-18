@@ -7,6 +7,7 @@ extension View {
    public func centerHorizontally() -> some View {
         HStack {
             Spacer()
+            Text("Omrane")
             self
             Spacer()
         }
